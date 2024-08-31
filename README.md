@@ -1,4 +1,4 @@
-# FloppyBirb ( REACT NATIVE APP DEVELOPED USING EXPO GO )
+# FloppyBirb ( REACT NATIVE APP DEVELOPED USING EXPO GO & SKIA )
 
 ## Game Interaction & Restarting
 
