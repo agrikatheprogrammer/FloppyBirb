@@ -4,7 +4,7 @@
 
 Here is a GIF demonstrating the theme toggle functionality:
 
-![Theme Toggle](https://github.com/username/repository/raw/branch/path/to/theme-toggle.gif)
+![Theme Toggle](https://github.com/agrikatheprogrammer/FloppyBirb/blob/main/theme_toggle.gif)
 
 ## Game Interaction & Restarting
 
