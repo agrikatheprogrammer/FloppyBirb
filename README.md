@@ -10,4 +10,4 @@ Here is a GIF demonstrating the theme toggle functionality:
 
 Here is a GIF showing the game and restarting functionality:
 
-![Game Interaction](https://github.com/username/repository/raw/branch/path/to/game-interaction.gif)
+![Game Interaction](https://github.com/agrikatheprogrammer/FloppyBirb/blob/main/game_outlook.gif)
